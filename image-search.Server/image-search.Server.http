@@ -1,0 +1,6 @@
+@image_search.Server_HostAddress = http://localhost:5118
+
+GET {{image_search.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
